@@ -29,9 +29,8 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 - **June 2025：**We release UniWorld-V1, a unified framework for understanding, generation, and editing. Checking our [report](https://arxiv.org/abs/2506.03147) for more details.
 - **May 2025：**Happy to receive a PhD offer from Department of Computer Science and Engineering at HKUST!
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **Oct 2024：**We released *Open-Sora-plan* version 1.3.0, featuring: WFVAE, prompt refiner, data filtering strategy, sparse attention, and bucket training strategy. We also support 93x480p within 24G VRAM. More details can be found at our latest [report](https://github.com/PKU-YuanGroup/Open-Sora-Plan/blob/main/docs/Report-v1.3.0.md).
-- **July 2024：**Our work [Prompt2Posters](https://dl.acm.org/doi/10.1145/3664647.3681495) has been accepted to **ACM MM 2024** as a poster paper. See you in Melbourne!
-- - **March 2024：**Our work [*Opne-Sora-Plan*](https://github.com/PKU-YuanGroup/Open-Sora-Plan) has been open sourced as SOTA's video generation model. We welcome everyone's guidance and suggestions.]
+- **Oct 2024：**We released ***Open-Sora-plan*** version 1.3.0, featuring: WFVAE, prompt refiner, data filtering strategy, sparse attention, and bucket training strategy. We also support 93x480p within 24G VRAM. More details can be found at our latest [report](https://github.com/PKU-YuanGroup/Open-Sora-Plan/blob/main/docs/Report-v1.3.0.md).
+- **July 2024：**Our work [***Prompt2Posters***](https://dl.acm.org/doi/10.1145/3664647.3681495) has been accepted to **ACM MM 2024** as a poster paper. See you in Melbourne!
+- **March 2024：**Our work [***Opne-Sora-Plan***](https://github.com/PKU-YuanGroup/Open-Sora-Plan) has been open sourced as SOTA's video generation model. We welcome everyone's guidance and suggestions.]
 
 <br>
