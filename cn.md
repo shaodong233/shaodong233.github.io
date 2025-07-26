@@ -8,7 +8,7 @@ title: 主页中文版
 
 <img src="wsd_pku.jpg" class="floatpic">
 
-<br>首先感谢您的阅读。我是王少东，河北沧州人。
+首先感谢您的阅读。我是王少东，河北沧州人。
 
 <br>我是香港科技大学（HKUST）计算机科学与工程系的博士生，导师是[陈隆教授](https://cse.hkust.edu.hk/admin/people/faculty/profile/longchen)。我在电子科技大学（UESTC）完成了本科学习，并在[袁粒教授](https://www.ece.pku.edu.cn/info/1046/2678.htm)的指导下于北京大学（PKU）信息工程学院获得硕士学位。
 
