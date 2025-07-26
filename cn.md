@@ -7,7 +7,7 @@ title: 主页中文版
 # 关于我
 <br>
 
-<img src="wsd_pku.jpg" class="floatpic">
+<img src="/wsd_pku.jpg" class="floatpic">
 
 感谢您的阅读。我是**王少东**，河北沧州人。<br>
 
