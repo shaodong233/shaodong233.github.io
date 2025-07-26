@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="wsd_pku.jpg" class="floatpic">
+<img src="caihanlin.jpg" class="floatpic">
 
 Here is **Shaodong Wang (Mercado, 王少东)**.<br>
 
